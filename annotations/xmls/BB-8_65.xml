@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_bb8</folder>
+	<filename>BB-8_65.jpg</filename>
+	<path>D:\Python_projects\Detection\images_bb8\BB-8_65.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>554</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bb8</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>414</ymin>
+			<xmax>516</xmax>
+			<ymax>663</ymax>
+		</bndbox>
+	</object>
+</annotation>

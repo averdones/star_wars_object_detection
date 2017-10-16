@@ -1,0 +1,9 @@
+item {
+  id: 1
+  name: 'BB-8'
+}
+
+item {
+  id: 2
+  name: 'R2-D2'
+}

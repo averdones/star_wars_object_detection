@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>R2-D2_60.jpg</filename>
+	<path>D:\Python_projects\Detection\images\R2-D2_60.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>r2d2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>154</ymin>
+			<xmax>390</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

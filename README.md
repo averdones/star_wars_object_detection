@@ -6,9 +6,12 @@ The final model has been fine-tuned using one of the [models pre-trained](https:
 on the [COCO dataset](http://mscoco.org/) as a starting point (*transfer learning*).
 
 ## Some results
-![result_1](https://github.com/averdones/star_wars_object_detection/blob/master/results/result_1.gif "Result 1")
-
-![result_2](https://github.com/averdones/star_wars_object_detection/blob/master/results/result_2.gif "Result 2")
+<p align="center">
+  <img src="results/result_1.gif">
+</p>
+<p align="center">
+  <img src="results/result_2.gif">
+</p>
 
 The outcome seems acceptable considering the small size and low variability of the dataset used.
 

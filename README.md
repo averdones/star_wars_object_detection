@@ -13,6 +13,8 @@ on the [COCO dataset](http://mscoco.org/) as a starting point (*transfer learnin
   <img src="results/result_2.gif">
 </p>
 
+[Here there's a video to show the performance of the model](https://youtu.be/tIYGObVra6E).
+
 The outcome seems acceptable considering the small size and low variability of the dataset used.
 
 ## Trying the dataset

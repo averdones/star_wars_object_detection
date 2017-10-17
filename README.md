@@ -17,4 +17,4 @@ The outcome seems acceptable considering the small size and low variability of t
 
 ## Trying the dataset
 In order to try the dataset, you first need to follow the [installation instructions](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md) on the Tensorflow page. 
-Then, you can train your own model following analogous commands as in the [pet detector](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_pets.md).
+Then, you can train your own model following analogous commands as the ones used in the [pet detector](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_pets.md).

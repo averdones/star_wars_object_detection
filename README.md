@@ -5,6 +5,8 @@ using [Tensorflow's object detection API](https://github.com/tensorflow/models/t
 The final model has been fine-tuned using one of the [models pre-trained](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md)
 on the [COCO dataset](http://mscoco.org/) as a starting point (*transfer learning*).
 
+_You can read more [here](https://averdones.github.io/tensorflow-object-detection-star-wars/)_.
+
 ## Some results
 <p align="center">
   <img src="results/result_1.gif">
